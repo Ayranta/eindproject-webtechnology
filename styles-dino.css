@@ -1,0 +1,170 @@
+body{
+	background: url("https://upload.wikimedia.org/wikipedia/commons/9/98/Blue_color_gs.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 20px;
+	line-height: 1.0;
+}
+
+h1{
+	color: white;
+	background-color: #0D87AE;
+	font-size: 3em;
+	text-align: center;
+	text-decoration: underline;
+	border: 15px double black;
+	padding: 30px;
+	margin: 30px;
+	border-radius: 1000px;
+}
+
+.lijst {
+	list-style-type: none;
+	text-align: center;
+	padding: 10px;
+}
+
+.lijst a{
+	color: lightblue;
+	text-decoration: none;
+}
+
+.lijst li{
+	text-decoration: none;
+	display: inline;
+	margin: 15px;
+	padding: 10px;
+	border-radius: 15px;
+	background-color: #0D87AE;
+	border-style: solid;
+}
+
+.lijst li:hover{
+	background-color: lightgray;
+}
+
+@media only screen and (max-widht: 400px){
+
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p{
+	color: white;
+	border-style: dotted;
+	border-color: black;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 20px;
+	background-color: #0D87AA;
+}
+
+.krijtL p{
+	color: white;
+	border-style: dotted;
+	border-color: black;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 20px;
+	background-color: #29BA0B;
+}
+
+#uitgave1{
+		color: white;
+	border-style: dotted;
+	border-color: black;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 20px;
+	background-color: #0D87AA;
+}
+
+#uitgave{
+		color: white;
+	border-style: dotted;
+	border-color: black;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 20px;
+	background-color: #29BA0B;
+}
+.pal h1{
+	color: white;
+	background-color: #FF7700;
+	font-size: 3em;
+	text-align: center;
+	text-decoration: underline;
+	border: 15px double black;
+	padding: 30px;
+	margin: 30px;
+	border-radius: 1000px;
+}
+.palL{
+		list-style-type: none;
+	text-align: center;
+	padding: 10px;
+}
+.palL a{
+	color: white;
+	text-decoration: none;
+}
+.palL li{
+	text-decoration: none;
+	display: inline;
+	margin: 15px;
+	padding: 10px;
+	border-radius: 15px;
+	background-color: #FF7700;
+	border-style: solid;
+}
+.palL li:hover{
+	background-color: #FFD447;
+}
+
+.krijt h1{
+	color: white;
+	background-color: #29BA0B;
+	font-size: 3em;
+	text-align: center;
+	text-decoration: underline;
+	border: 15px double black;
+	padding: 30px;
+	margin: 30px;
+	border-radius: 1000px;
+}
+.krijtL {
+	list-style-type: none;
+	text-align: center;
+	padding: 10px;
+}
+.krijtL  a{
+	color: white;
+	text-decoration: none;
+}
+.krijtL li{
+	text-decoration: none;
+	display: inline;
+	margin: 15px;
+	padding: 10px;
+	border-radius: 15px;
+	background-color: #29BA0B;
+	border-style: solid;
+}
+.krijtL li:hover{
+	background-color: lightgreen;
+}
+.pal h1{
+	color: white;
+	background-color: #FF7700;
+	font-size: 3em;
+	text-align: center;
+	text-decoration: underline;
+	border: 15px double black;
+	padding: 30px;
+	margin: 30px;
+	border-radius: 1000px;
+}

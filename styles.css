@@ -1,0 +1,88 @@
+body{
+	background: url("https://www.iphoned.nl/wp-content/uploads/2021/05/wallpaper-weekly-21-2021-9-scaled.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 20px;
+	line-height: 1.0;
+}
+
+h1{
+	color: black;
+	background-color: #F8E4BF;
+	font-size: 3em;
+	text-align: center;
+	text-decoration: underline;
+	border: 15px double black;
+	padding: 30px;
+	margin: 30px;
+	border-radius: 1000px;
+}
+
+.lijst {
+	list-style-type: none;
+	text-align: center;
+	padding: 10px;
+}
+
+.lijst a{
+	color: black;
+	text-decoration: none;
+}
+
+.lijst li{
+	text-decoration: none;
+	display: inline;
+	margin: 15px;
+	padding: 10px;
+	border-radius: 15px;
+	background-color: #F8E4BF;
+}
+
+.lijst li:hover{
+	background-color: lightgray;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	border-style: double;
+	border-width: thick;
+	border-color: black;
+	border-collapse: collapse;
+}
+
+th,td {
+	border-style: solid;
+	border-width: thin;
+	border-color: black;
+	text-align: center;
+	vertical-align: middle;
+	padding: 5px;
+}
+
+th{
+	background-color: #F8E4BF;
+	color: black;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	object-fit: cover;
+}
+
+iframe{
+	  display: block;
+  margin: auto;
+    margin-left: 50vw;
+  transform: translate(-50%);
+}
+
+@media only screen and (max-widht: 400px){
+
+}
+
+.input{
+	text-align: center;
+}
